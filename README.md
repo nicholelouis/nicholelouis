@@ -1,9 +1,6 @@
 # Hi, I'm Nichole Louis 👋
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
-<p align="left">
 Welcome to my GitHub! My name is <br>Nichole Louis</br> and I'm <br>24 years old</br>. Currently, I am studying <br>web application development</br>. I have a deep passion for technology and my goal is to continue my education and earn a degree in this field. I am truly fascinated by the world of computing and the endless opportunities it offers.
-</p>
 
 ### What can I do?
 Over the course of my studies, I have learned to work with various technologies and tools, such as:
