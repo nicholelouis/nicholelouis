@@ -5,7 +5,7 @@
 Welcome to my GitHub! My name is <b>Nichole Louis</b> and I'm 24 years old. Currently, I am studying <b>web application development</b>. I have a deep passion for technology and my goal is to continue my education and earn a degree in this field. I am truly fascinated by the world of computing and the endless opportunities it offers.
 </p>
 
-### What can I do?
+## What can I do?
 Over the course of my studies, I have learned to work with various technologies and tools, such as:
 
 - **Programming Languages**
@@ -52,7 +52,7 @@ Over the course of my studies, I have learned to work with various technologies 
 <img src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" alt="masOS" width="40" height="40"/> </a>
 
 
-### What drives me?
+## What drives me?
 I am highly responsible and dedicated to my work. I love learning, researching, and expanding my knowledge. I am constantly motivated to find solutions to problems and create useful tools.
 
 My goals go beyond just web development; I aim to create something big and impactful, venturing into areas far beyond the web development field. I aspire to contribute to groundbreaking projects that push the boundaries of technology and innovation.
