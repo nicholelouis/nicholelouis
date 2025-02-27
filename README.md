@@ -1,6 +1,6 @@
 # Hi, I'm Nichole Louis 👋
 
-Welcome to my GitHub! My name is <br>Nichole Louis</br> and I'm <br>24 years old</br>. Currently, I am studying <br>web application development</br>. I have a deep passion for technology and my goal is to continue my education and earn a degree in this field. I am truly fascinated by the world of computing and the endless opportunities it offers.
+Welcome to my GitHub! My name is Nichole Louis and I'm 24 years old. Currently, I am studying web application development. I have a deep passion for technology and my goal is to continue my education and earn a degree in this field. I am truly fascinated by the world of computing and the endless opportunities it offers.
 
 ### What can I do?
 Over the course of my studies, I have learned to work with various technologies and tools, such as:
