@@ -8,6 +8,8 @@ Welcome to my GitHub! My name is <br>Nichole Louis</br> and I'm <br>24 years old
 ### What can I do?
 Over the course of my studies, I have learned to work with various technologies and tools, such as:
 
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+
 - **Programming Languages**
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -55,16 +57,10 @@ Over the course of my studies, I have learned to work with various technologies 
 ### What drives me?
 I am highly responsible and dedicated to my work. I love learning, researching, and expanding my knowledge. I am constantly motivated to find solutions to problems and create useful tools.
 
-### My goals
 My goals go beyond just web development; I aim to create something big and impactful, venturing into areas far beyond the web development field. I aspire to contribute to groundbreaking projects that push the boundaries of technology and innovation.
 
-### <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<br>
-
 <div align="center">
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholelouis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
 </a>
 </div>
 
