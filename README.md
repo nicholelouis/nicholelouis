@@ -58,7 +58,9 @@ I am highly responsible and dedicated to my work. I love learning, researching, 
 My goals go beyond just web development; I aim to create something big and impactful, venturing into areas far beyond the web development field. I aspire to contribute to groundbreaking projects that push the boundaries of technology and innovation.
 
 <div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholelouis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </a>
 </div>
 
