@@ -58,13 +58,10 @@ I am highly responsible and dedicated to my work. I love learning, researching, 
 ### My goals
 My goals go beyond just web development; I aim to create something big and impactful, venturing into areas far beyond the web development field. I aspire to contribute to groundbreaking projects that push the boundaries of technology and innovation.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=nicholelouis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicholelouis&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholelouis&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	
 </a>
